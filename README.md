@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo for learn and explore git &amp; github.
+This is a demo for learn and explore git &amp; github.Thank you.
